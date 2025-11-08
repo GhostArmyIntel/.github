@@ -106,6 +106,118 @@ Members fork their personal projects here to:
 
 ---
 
+## 🎖️ GHOST ARMY OPERATIVES // FIELD AGENTS
+
+<div align="center">
+
+### 🏆 TOP CONTRIBUTORS LEADERBOARD
+
+**Elite agents who have donated their tools to the Ghost Army mission**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 👑 RINGMAST4R
+**Founder & Lead Operative**
+
+[![Ringmast4r](https://github.com/Ringmast4r.png?size=120)](https://github.com/Ringmast4r)
+
+![Projects Donated](https://img.shields.io/badge/Projects%20Donated-5-gold?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-Founder-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+
+**Arsenal Contributed:**
+- 🛰️ wardriving-converter
+- 📡 WiGLE-Vault
+- 🔍 OUI-Master-Database
+- 📊 csv-merger
+- 🐇 follow-the-white-rabbit-python
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ringmast4r-181717?style=flat-square&logo=github)](https://github.com/Ringmast4r)
+[![Contributions](https://img.shields.io/badge/Lines%20of%20Code-25K%2B-blue?style=flat-square)](https://github.com/Ringmast4r)
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 OPEN SLOT
+**Field Agent Position Available**
+
+<img src="https://via.placeholder.com/120/gray/white?text=?" alt="Open Slot" width="120" height="120" style="border-radius: 50%;">
+
+![Projects Donated](https://img.shields.io/badge/Projects%20Donated-0-gray?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-Awaiting-lightgray?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open-orange?style=for-the-badge)
+
+**Waiting for your contribution!**
+
+Fork your project to Ghost Army Intel and claim this spot.
+
+[![Join Now](https://img.shields.io/badge/Join-The%20Ghost%20Army-blue?style=flat-square&logo=github)](https://github.com/GhostArmyIntel)
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 OPEN SLOT
+**Field Agent Position Available**
+
+<img src="https://via.placeholder.com/120/gray/white?text=?" alt="Open Slot" width="120" height="120" style="border-radius: 50%;">
+
+![Projects Donated](https://img.shields.io/badge/Projects%20Donated-0-gray?style=for-the-badge)
+![Rank](https://img.shields.io/badge/Rank-Awaiting-lightgray?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open-orange?style=for-the-badge)
+
+**Waiting for your contribution!**
+
+Fork your project to Ghost Army Intel and claim this spot.
+
+[![Join Now](https://img.shields.io/badge/Join-The%20Ghost%20Army-blue?style=flat-square&logo=github)](https://github.com/GhostArmyIntel)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 CONTRIBUTION METRICS
+
+![Total Contributors](https://img.shields.io/badge/Total%20Operatives-1-blue?style=flat-square)
+![Projects Donated](https://img.shields.io/badge/Total%20Projects%20Donated-5-green?style=flat-square)
+![Active Contributors](https://img.shields.io/badge/Active%20This%20Month-1-orange?style=flat-square)
+![Open Slots](https://img.shields.io/badge/Open%20Slots-∞-red?style=flat-square)
+
+### 🏅 RANK SYSTEM
+
+| Rank | Projects Donated | Badge Earned |
+|------|------------------|--------------|
+| 🥇 **Field Marshal** | 10+ projects | ![Field Marshal](https://img.shields.io/badge/Field%20Marshal-Gold-FFD700?style=flat-square) |
+| 🥈 **Major** | 5-9 projects | ![Major](https://img.shields.io/badge/Major-Silver-C0C0C0?style=flat-square) |
+| 🥉 **Captain** | 3-4 projects | ![Captain](https://img.shields.io/badge/Captain-Bronze-CD7F32?style=flat-square) |
+| 🎖️ **Lieutenant** | 2 projects | ![Lieutenant](https://img.shields.io/badge/Lieutenant-Blue-4169E1?style=flat-square) |
+| ⭐ **Recruit** | 1 project | ![Recruit](https://img.shields.io/badge/Recruit-Green-00FF00?style=flat-square) |
+
+**Current Ranks:**
+- **Ringmast4r** - 🥈 Major (5 projects)
+
+</div>
+
+<div align="center">
+
+### 🎯 HOW TO JOIN THE ROSTER
+
+![Step 1](https://img.shields.io/badge/1-Fork%20Your%20Project-blue?style=for-the-badge)
+→ ![Step 2](https://img.shields.io/badge/2-Auto%20Detection-green?style=for-the-badge)
+→ ![Step 3](https://img.shields.io/badge/3-Badge%20Unlocked-gold?style=for-the-badge)
+→ ![Step 4](https://img.shields.io/badge/4-Leaderboard%20Updated-red?style=for-the-badge)
+
+**Your contribution is automatically tracked!** Fork a project to GhostArmyIntel and earn your place in the roster.
+
+</div>
+
+---
+
 ## 📈 STATISTICS & ANALYTICS
 
 <div align="center">
